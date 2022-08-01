@@ -5,7 +5,7 @@ amount = float(input('Hey, enter the bill amount: '))
 period = input('What is the bill period? E.g. March 2022: ')
 
 name1 = input('What is your name? ')
-days_in_house1 = int(input(f'How many days did{name1} stay in the house during the bill period? '))
+days_in_house1 = int(input(f'How many days did {name1} stay in the house during the bill period? '))
 
 
 name2 = input('What is the name of the other flatmate? ')
